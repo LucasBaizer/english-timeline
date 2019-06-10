@@ -1,0 +1,14 @@
+.timelineItem {
+	padding: 6px 10px 6px 10px;
+	cursor: pointer;
+}
+
+.timelineItem:last-child {
+	border-bottom-left-radius: 0px;
+	border-bottom-right-radius: 0px;
+}
+
+.rigidCard, .rigidCard > img {
+	border-top-left-radius: 0px;
+	border-top-right-radius: 0px;
+}

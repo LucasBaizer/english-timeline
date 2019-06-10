@@ -1,33 +1,16 @@
 .app {
 	text-align: center;
+	margin-top: 25px;
 }
 
-.appLogo {
-	animation: appLogoSpin infinite 20s linear;
-	height: 40vmin;
-	pointer-events: none;
+.mobileError {
+	text-align: center;
 }
 
-.appHeader {
-	background-color: #282c34;
-	min-height: 100vh;
-	display: flex;
-	flex-direction: column;
-	align-items: center;
-	justify-content: center;
-	font-size: calc(10px + 2vmin);
-	color: white;
+.container {
+	min-width: 90%;
 }
 
-.appLink {
-	color: #61dafb;
-}
-
-@keyframes appLogoSpin {
-	from {
-		transform: rotate(0deg);
-	}
-	to {
-		transform: rotate(360deg);
-	}
+.timelineSummary {
+	min-height: 100%;
 }
