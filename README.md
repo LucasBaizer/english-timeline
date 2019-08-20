@@ -6,4 +6,4 @@ I interviewed my father about his experience being in Manhattan on 9/11, and how
 
 # How to Use
 
-You can compile from source by running `yarn start` or view the EC2 instance at http://54.148.6.70/ which I will use to present it to my class. I did not get an Elastic IP for this instance, so it might change in the future if the instance goes down for any reason.
+You can compile from source by running `yarn start` or view the EC2 instance at http://34.216.194.77/.
